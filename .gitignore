@@ -1,0 +1,18 @@
+# Build intermediates
+out/
+*.class
+manifest.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+*.swp
+.DS_Store
+
+# The built app stays tracked (double-click start)
+!Lupe.jar
